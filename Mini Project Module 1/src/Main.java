@@ -6,7 +6,7 @@ public class Main {
 
     public void launch(){
         driver = new SafariDriver();
-        driver.get("https://www.youtube.com/@raunaksingh8728");
+        driver.get("https://www.youtube.com/@martingarrix");
     }
     public static void main(String[] args) {
 
